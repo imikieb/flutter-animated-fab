@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.animated_floating_action_button">
+    package="com.example.animated_fab">
    <application
-        android:label="animated_floating_action_button"
+        android:label="Animated Fab"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
